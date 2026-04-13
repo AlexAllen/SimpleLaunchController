@@ -1,2 +1,2 @@
 # SimpleLaunchController
-Working files for a simple launch controller for high power rocketry.
+The aim of this launch controller is to create a simple launch controller for launching a single rocket at a time. It should be able to cope with igniting clusters of high power solid rocket motors at once (using a clip whip), at an appropriate distance, but does not need to be able to support hybrids or have multiple channels. It should meet all the requirements of the `Launch Controller` task in the United Kingdom Rocketry Association's Model Achievement Program.
